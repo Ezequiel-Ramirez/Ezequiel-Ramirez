@@ -1,6 +1,6 @@
 ### Hello, I´m Ezequiel Ramirez 👋
 
-- 🌱 I’m currently learning all about Front-End
+- 🌱 I’m currently learning and working all about Front-End
 ##
 
 <div align="center">
